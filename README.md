@@ -8,7 +8,7 @@
 - 📫 How to reach me: ausman99@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The 3ds has 3 CPUs in it -> another way in which it has 3 dimensions
-- 
+
 <!--
 **ali-layken/ali-layken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
