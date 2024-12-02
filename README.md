@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently working on a website to share learning resources
 - 🌱 I’m currently learning reversing
-- 👯 I’m looking to collaborate on networked systems
-- 🤔 I’m looking for help with grants ofc
+- 👯 I’m looking to collaborate on building community game servers
+- 🤔 I’m looking for help with reversing software
 - 💬 Ask me about decentralization's history before computing
 - 📫 How to reach me: ausman99@gmail.com
 - 😄 Pronouns: He/Him
