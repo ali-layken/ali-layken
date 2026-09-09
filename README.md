@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on a website to share learning resources -> [burst](https://burst.deno.dev/)
+- 🔭 I’m currently working on a website to share learning resources -> [burst](https://burst.swagdev.deno.net/)
 - 🌱 I’m currently learning reversing
 - 👯 I’m looking to collaborate on building community game servers
 - 🤔 I’m looking for help with reversing software
